@@ -1,3 +1,5 @@
+# NAME: SHALINI K
+# REG NO: 212224060244
 # Pulse-Code-Modulation and Delta-Code-Modulation
 # Aim
 Write a simple Python program for the modulation and demodulation of PCM, and DM.
